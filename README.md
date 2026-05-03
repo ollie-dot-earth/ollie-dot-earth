@@ -9,5 +9,7 @@ Projects im working on right now:
   <dd>an email based rss feed aggregator</dd>
   <dt><a href="https://github.com/gideongrinberg/gcourier">gcourier</a></dt>
   <dd>email sending library for gleam</dd>
+  <dt><a href="https://git.ollie.earth/ollie/screepers">screepers</a></dt>
+  <dd>gleam bindings for <a href="https://store.screeps.com/arena">screeps arena</a></dd>
 </dl>
 
